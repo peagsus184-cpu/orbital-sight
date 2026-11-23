@@ -1,0 +1,6 @@
+{
+  "name": "OrbitalSight",
+  "description": "Satellite AI analysis console with condition triggers, streaming mission analyst chat, and real-time system command activity logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
